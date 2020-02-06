@@ -1,0 +1,302 @@
+[
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Much of government best practice in quality assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-10",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-10",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "large": "course/en/images/model.png",
+            "small": "course/en/images/full-width.png",
+            "alt": "Placeholder graphic.",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-15",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Text",
+        "displayTitle": "",
+        "body": "<strong> Placeholder Text</strong><br> Words from Phillip Rutland <ui><li>History of west coast mainline;<li> the context <li> the challenges the reaction and civil service response</ui>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "blank",
+        "_classes": "",
+        "_layout": "right",
+        "title": "c-20",
+        "_isOptional": true
+    },
+    {
+        "_id": "c-30",
+        "_parentId": "b-20",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_hasNavigationInTextArea": false,
+        "title": "Narrative",
+        "displayTitle": "MacPherson Report",
+        "body": "In October 2012, the Cabinet Secretary and the Head of the Civil Service commissioned a review of the quality assurance (QA) of analytical models that inform government policy.",
+        "instruction": "Select the next and back arrows to find out more.",
+        "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
+        "_items": [
+            {
+                "title": "Commission started",
+                "body": " Since the difficulties with the Intercity West Coast franchise competition, the quality of government analysis has, rightly, been scrutinised. In October 2012, Nick Macpherson was commissioned to review the quality assurance of analytical models across government.",
+                "_graphic": {
+                    "src": "course/en/images/man_read.png",
+                    "alt": "Placeholder graphic."
+                },
+                "strapline": "Narrative item 1"
+            },
+            {
+                "title": "Review of quality assurance of Government analytical models",
+                "body": "The recommendations of that review were written with the aim to extend best practice across the whole of government. They focus on quality assurance, governance and accountability, culture, capacity, capability and control.",
+                "_graphic": {
+                    "src": "course/en/images/paper_pen.png",
+                    "alt": "Placeholder graphic."
+                },
+                "strapline": "Narrative item 2"
+            },
+            {
+                "title": "Aftermath",
+                "body": "Macpherson review (words from ex perm sec, perhaps on the review the context in 2013 of building trust, how government came together and established a set of principles that would be relevant to everyone for years to come) ",
+                "_graphic": {
+                    "src": "course/en/images/chart.png",
+                    "alt": "Placeholder graphic."
+                },
+                "strapline": "Narrative item 3"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-60",
+        "_parentId": "b-40",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 2,
+        "title": "Multiple Choice Question",
+        "displayTitle": "Modelling Error",
+        "body": "What modelling error lead to the MacPherson review",
+        "instruction": "Choose one or more options and select Submit.",
+        "_items": [
+            {
+                "text": "Shadow Ratings Model",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "InterCity West Coast franchise",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Student Loan model",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Aquatrine Package B PFI Financial Model",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "That’s correct. In 2012 the UK government ran a competition for who would run a particular service (the InterCity West Coast rail franchise). Civil servants modelled the various bids to assess its costs and benefits and a winner of the competition announced as a result. Unfortunately for the government, this decision was challenged in the courts and it turned out that there were mistakes in the modelling, and the decision was retracted. This caused the government some embarrassment as well as cost it quite a bit of money because it had to re-run the competition. ",
+            "_incorrect": {
+                "final": "That’s not right. It was actually the the InterCity West Coast rail franchise"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-62",
+        "_parentId": "b-40",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-62",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/train.png",
+            "alt": "Placeholder graphic.",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId": "b-45",
+        "_type": "component",
+        "_component": "gmcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 1,
+        "title": "Graphical Multiple Choice Question",
+        "displayTitle": "Causes of modelling errors",
+        "body": "There are many causes of modelling error. Which of these was <strong>not</strong> identified as a cause of modelling error?",
+        "instruction": "Choose an option and select Submit.",
+        "_columns": 3,
+        "_items": [
+            {
+                "text": "Unrealistic assumptions and optimism bias",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/glass.png",
+                    "small": "course/en/images/gmcq.png",
+                    "alt": "Placeholder graphic."
+                }
+            },
+            {
+                "text": "parsimonious models",
+                "_shouldBeSelected": true,
+                "_graphic": {
+                    "large": "course/en/images/chair.png",
+                    "small": "course/en/images/gmcq.png",
+                    "alt": "Placeholder graphic."
+                }
+            },
+            {
+                "text": "Limited or poor quality data",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/art_data.png",
+                    "small": "course/en/images/gmcq.png",
+                    "alt": "Placeholder graphic."
+                }
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "That’s correct.<br> <strong>parsimonious models</strong> is what we were looking for!",
+            "_incorrect": {
+                "final": "Sorry, that’s not right."
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-80",
+        "_parentId": "b-60",
+        "_type": "component",
+        "_component": "slider",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_showNumber": true,
+        "_showScaleIndicator": true,
+        "_scaleStart": 1,
+        "_scaleEnd": 10,
+        "title": "Slider",
+        "displayTitle": "MacPherson Recommendations",
+        "body": "How many recommendations did Macpheron make to improve modelling?",
+        "instruction": "Drag the slider to make your choice and select Submit.",
+        "labelStart": "",
+        "labelEnd": "",
+        "_correctAnswer": "",
+        "_correctRange": {
+            "_bottom": 7,
+            "_top": 9
+        },
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "Yes, that’s right. <br> Its eight recommendations focussed around creating the right environment, establishing clear processes and publicly reporting this. They aim to extend best practice across the whole of government.",
+            "_incorrect": {
+                "final": "Sorry, that’s not right, there are 8 Recommendations. The 8 recommendations aim to support departments by setting out the key elements needed for good environment and process. The review recommended departments and their ALBs should develop plans for both the elements in a way that fits with their remit, and is proportionate to risk. The inputs specified  are not exhaustive, but rather give a minimum guideline as to what organisations should address in QA plans going forward. "
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-85",
+        "_parentId": "b-65",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "text about stuffs!!!!!  the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-90",
+        "_parentId": "b-70",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Much of government beother stuff and marcie and things!!!son learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+]
