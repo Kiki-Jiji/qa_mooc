@@ -25,6 +25,7 @@
         "adapt-contrib-languagePicker": ">=2",
         "adapt-blockslider": "*",
         "adapt-contrib-blockslider": "*",
-        "adapt-backgroundScroll": "*"
+        "adapt-backgroundScroll": "*",
+        "adapt-parallax-background-switcher": "*"
     }
 }

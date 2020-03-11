@@ -98,5 +98,55 @@
             "_classes": "fade-in-bottom",
             "_percentInviewVertical": 50
         }
+    },
+    {
+        "_id": "b-75",
+        "_parentId": "a-20",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "testblock2",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 22,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        },
+        "_parallaxbgSwitcher": {
+            "src": "course/en/images/brid.jpg",
+            "mobileSrc": "course/en/images/brid.jpg"
+        }
+    },
+    {
+        "_id": "b-80",
+        "_parentId": "a-20",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 23,
+        "_parallaxbgSwitcher": {
+            "src": "course/en/images/seaport.jpg",
+            "mobileSrc": "course/en/images/seaport.jpg"
+        }
+    },
+    {
+        "_id": "b-85",
+        "_parentId": "a-20",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 24,
+        "_parallaxbgSwitcher": {
+            "src": "course/en/images/bridge.jpg",
+            "mobileSrc": "course/en/images/bridge.jpg"
+        }
     }
 ]

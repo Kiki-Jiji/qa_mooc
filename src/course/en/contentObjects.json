@@ -70,5 +70,33 @@
             "_excludeAssessments": false,
             "_isCompletionIndicatorEnabled": false
         }
+    },
+    {
+        "_id": "co-20",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Presentation Components",
+        "displayTitle": "test ",
+        "body": "A test of backgroundScroll",
+        "pageBody": "",
+        "instruction": "Scroll down to see the recent history of the modelling",
+        "_graphic": {
+            "src": "course/en/images/people.png",
+            "alt": "Placeholder graphic."
+        },
+        "linkText": "View",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        },
+        "_parallaxbgSwitcher": {
+          "_isActive":true,
+          "_bgoptions": "animation"
+    }
     }
 ]
