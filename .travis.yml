@@ -1,5 +1,11 @@
 language: node_js
+sudo: required
 node_js:
   - "0.10"
 before_script:
   - npm install grunt-cli -g
+  - npm install -g adapt-cli
+
+script:
+  - sudo grunt build
+  
