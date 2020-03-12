@@ -1,12 +1,16 @@
 language: node_js
-sudo: required
-node_js:
-  - "0.10"
-before_script:
+
+cache: npm
+
+install:
   - npm install grunt-cli -g
   - npm install -g adapt-cli
-  - npm install
-  - adapt install
 
 script:
-  - sudo grunt build
+  - grunt build
+
+deploy:
+  local_dir: build
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
