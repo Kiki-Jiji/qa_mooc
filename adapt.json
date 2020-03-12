@@ -26,6 +26,8 @@
         "adapt-blockslider": "*",
         "adapt-contrib-blockslider": "*",
         "adapt-backgroundScroll": "*",
-        "adapt-parallax-background-switcher": "*"
+        "adapt-parallax-background-switcher": "*",
+        "adapt-flipper": "*",
+        "adapt-stacklist": "*"
     }
 }
