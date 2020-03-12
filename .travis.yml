@@ -5,7 +5,8 @@ node_js:
 before_script:
   - npm install grunt-cli -g
   - npm install -g adapt-cli
+  - npm install
+  - adapt install
 
 script:
   - sudo grunt build
-  
