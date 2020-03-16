@@ -9,7 +9,7 @@ install:
   - rm .gitignore
   - npm install adapt-cli -g
   - npm install grunt-cli -g
-  - adapt install -l -y
+  - echo 'y' | adapt install -l
 
 script:
   - grunt build
