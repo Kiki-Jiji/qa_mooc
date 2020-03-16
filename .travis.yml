@@ -6,6 +6,7 @@ node_js:
 cache: npm
 
 install:
+  - npm install
   - npm install adapt-cli -g
   - npm install grunt-cli -g
   - adapt install
