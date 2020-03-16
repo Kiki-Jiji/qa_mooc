@@ -105,7 +105,7 @@
         "_type": "block",
         "_classes": "",
         "title": "b-05",
-        "displayTitle": "testblock2",
+        "displayTitle": "Story",
         "body": "",
         "instruction": "",
         "_trackingId": 22,
@@ -159,6 +159,38 @@
         "body": "",
         "instruction": "",
         "_trackingId": 25,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-95",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 26,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-100",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 27,
         "_onScreen": {
             "_isEnabled": true,
             "_classes": "fade-in-bottom",

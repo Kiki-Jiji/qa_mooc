@@ -28,6 +28,8 @@
         "adapt-backgroundScroll": "*",
         "adapt-parallax-background-switcher": "*",
         "adapt-flipper": "*",
-        "adapt-stacklist": "*"
+        "adapt-stacklist": "*",
+        "adapt-dragndrop": "*",
+        "adapt-expose": "*"
     }
 }
