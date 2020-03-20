@@ -23,13 +23,8 @@
         "adapt-contrib-spoor": ">=3",
         "adapt-contrib-bookmarking": ">=2.1.2",
         "adapt-contrib-languagePicker": ">=2",
-        "adapt-blockslider": "*",
-        "adapt-contrib-blockslider": "*",
-        "adapt-backgroundScroll": "*",
-        "adapt-parallax-background-switcher": "*",
-        "adapt-flipper": "*",
-        "adapt-stacklist": "*",
-        "adapt-dragndrop": "*",
-        "adapt-expose": "*"
+        "adapt-contrib-blockslider": ">=2.0.2",
+        "adapt-backgroundScroll": ">=3.0.2",
+        "adapt-parallax-background-switcher": ">=2.0.1"
     }
 }
