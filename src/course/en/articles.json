@@ -77,16 +77,7 @@
       "title": "a-10",
       "displayTitle": "",
       "body": "",
-      "instruction": "",
-      "_trickle": {
-        "_isEnabled": true,
-        "_button": {
-            "_isEnabled": true,
-            "text": "Continue",
-            "startText": "Continue",
-            "finalText": "Continue"
-       }
-   }
+      "instruction": ""
   },
   {
       "_id": "a-20",
