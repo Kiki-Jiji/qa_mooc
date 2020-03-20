@@ -33,6 +33,25 @@
       "_parentId": "co-15",
       "_type": "article",
       "_classes": "",
+      "title": "a-10",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_trickle": {
+        "_isEnabled": true,
+        "_button": {
+            "_isEnabled": true,
+            "text": "Continue",
+            "startText": "Continue",
+            "finalText": "Continue"
+       }
+   }
+  },
+  {
+      "_id": "a-16",
+      "_parentId": "co-15",
+      "_type": "article",
+      "_classes": "",
       "title": "a-05",
       "displayTitle": "",
       "body": "",
@@ -46,7 +65,7 @@
             "_isActive": true,
             "_useBlockTitle": false
         },
-        "_initial": 2,
+        "_initial": 1,
         "_height": 600
     }
   },
