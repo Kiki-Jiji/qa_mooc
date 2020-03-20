@@ -494,6 +494,21 @@
         }
     },
     {
+        "_id": "d-95",
+        "_parentId": "b-71",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Much of government best practice in quality assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
         "_id": "c-95",
         "_parentId": "b-75",
         "_type": "component",
