@@ -72,8 +72,19 @@
         "_parentId": "a-15",
         "_type": "block",
         "_classes": "",
-        "title": "b-05",
-        "displayTitle": "test1",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 28
+    },
+    {
+        "_id": "b-66",
+        "_parentId": "a-16",
+        "_type": "block",
+        "_classes": "",
+        "title": "block1",
+        "displayTitle": "",
         "body": "",
         "instruction": "",
         "_trackingId": 20,
@@ -84,15 +95,63 @@
         }
     },
     {
-        "_id": "b-70",
-        "_parentId": "a-15",
+        "_id": "b-67",
+        "_parentId": "a-16",
         "_type": "block",
         "_classes": "",
-        "title": "b-05",
-        "displayTitle": "testblock2",
+        "title": "block2",
+        "displayTitle": "",
         "body": "",
         "instruction": "",
         "_trackingId": 21,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-68",
+        "_parentId": "a-16",
+        "_type": "block",
+        "_classes": "",
+        "title": "block3",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 29,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-69",
+        "_parentId": "a-16",
+        "_type": "block",
+        "_classes": "",
+        "title": "block4",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 30,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-70",
+        "_parentId": "a-16",
+        "_type": "block",
+        "_classes": "",
+        "title": "block4",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 31,
         "_onScreen": {
             "_isEnabled": true,
             "_classes": "fade-in-bottom",
@@ -105,7 +164,7 @@
         "_type": "block",
         "_classes": "",
         "title": "b-05",
-        "displayTitle": "testblock2",
+        "displayTitle": "Story",
         "body": "",
         "instruction": "",
         "_trackingId": 22,
@@ -147,6 +206,54 @@
         "_parallaxbgSwitcher": {
             "src": "course/en/images/bridge.jpg",
             "mobileSrc": "course/en/images/bridge.jpg"
+        }
+    },
+    {
+        "_id": "b-90",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 25,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-95",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 26,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-100",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 27,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
         }
     }
 ]
