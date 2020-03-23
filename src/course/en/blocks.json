@@ -147,7 +147,7 @@
         "_parentId": "a-16",
         "_type": "block",
         "_classes": "",
-        "title": "block4",
+        "title": "block5",
         "displayTitle": "",
         "body": "",
         "instruction": "",
@@ -162,12 +162,44 @@
         "_id": "b-71",
         "_parentId": "a-17",
         "_type": "block",
-        "_classes": "",
+        "_classes": "aqua",
         "title": "aqua",
-        "displayTitle": "",
+        "displayTitle": "Aqua Book",
         "body": "",
         "instruction": "",
         "_trackingId": 32,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-72",
+        "_parentId": "a-18",
+        "_type": "block",
+        "_classes": "aqua_book",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 33,
+        "_onScreen": {
+            "_isEnabled": true,
+            "_classes": "fade-in-bottom",
+            "_percentInviewVertical": 50
+        }
+    },
+    {
+        "_id": "b-73",
+        "_parentId": "a-18",
+        "_type": "block",
+        "_classes": "aqua_book",
+        "title": "aqua2",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_trackingId": 34,
         "_onScreen": {
             "_isEnabled": true,
             "_classes": "fade-in-bottom",
@@ -222,54 +254,6 @@
         "_parallaxbgSwitcher": {
             "src": "course/en/images/bridge.jpg",
             "mobileSrc": "course/en/images/bridge.jpg"
-        }
-    },
-    {
-        "_id": "b-90",
-        "_parentId": "a-25",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-05",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_trackingId": 25,
-        "_onScreen": {
-            "_isEnabled": true,
-            "_classes": "fade-in-bottom",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "_id": "b-95",
-        "_parentId": "a-25",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-05",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_trackingId": 26,
-        "_onScreen": {
-            "_isEnabled": true,
-            "_classes": "fade-in-bottom",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "_id": "b-100",
-        "_parentId": "a-25",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-05",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_trackingId": 27,
-        "_onScreen": {
-            "_isEnabled": true,
-            "_classes": "fade-in-bottom",
-            "_percentInviewVertical": 50
         }
     }
 ]
