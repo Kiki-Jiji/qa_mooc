@@ -3,7 +3,15 @@
     "_defaultDirection": "ltr",
     "_questionWeight": 1,
     "_inspector": {
-    "_isEnabled": true
+      "_isEnabled": false,
+      "_elementsToInspect": [
+		      "menu",
+		        "menuItem",
+		          "page",
+		            "article",
+		              "block",
+		                "component"
+	]
     },
     "_logging": {
         "_isEnabled": true,
