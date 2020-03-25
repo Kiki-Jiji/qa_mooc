@@ -108,6 +108,21 @@
         }
     },
     {
+        "_id": "c-59",
+        "_parentId": "b-41",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "intro",
+        "_layout": "full",
+        "title": "Introduction",
+        "displayTitle": "Modelling MOOC",
+        "body": "This MOOC has been developed by the Best Practice and Impact diversion of the Office for National Statistics to spread best practice in the quality assurance of modelling. <br> <br> The course consists of a number of modules which you can use to brush up on your knowledge of different aspects of modelling. The following quiz is intented as a helpful guide for the material that will be covered and you can use it to gauge your familarity with the course content. <br> <br> You can select the back arrow in the top left hand corner to skip to the module selection screen.",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
         "_id": "c-60",
         "_parentId": "b-40",
         "_type": "component",
@@ -560,11 +575,11 @@
         "_parentId": "b-75",
         "_type": "component",
         "_component": "text",
-        "_classes": "",
+        "_classes": "cs",
         "_layout": "",
-        "title": "Introduction",
+        "title": "",
         "displayTitle": "",
-        "body": "This component would be used to display a story, such as a case study on modelling or some history",
+        "body": "DHSC helps its model owners to make judgements about whether their model is business critical. [recommendation1] The approach uses the principles in the Macpherson review (2013). It created a triage template to aid judgements and included ‘impact on service users’.",
         "instruction": "Select continue",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -575,19 +590,19 @@
         "_parentId": "b-80",
         "_type": "component",
         "_component": "text",
-        "_classes": "",
+        "_classes": "cs",
         "_layout": "",
         "title": "c-20",
-        "body": "The page moves down to the next block and the background image changes. This is used in many e-learning courses to make the content mre interesting as the site responds to progression."
+        "body": "Responsibility for QA of individual models rests with the model SRO (under AQUA BOOK). DHSC have a QA ‘high level’ template for SROs to record the types of QA applied. This covers everything from the model's purpose to documentation/governance arrangements. It also uses ‘medium’ and ‘low’ risk templates to ensure that ALL models are subject to QA."
     },
     {
         "_id": "c-105",
         "_parentId": "b-85",
         "_type": "component",
         "_component": "text",
-        "_classes": "",
+        "_classes": "cs",
         "_layout": "",
         "title": "c-20",
-        "body": "There is no limit to the number of blocks and other components could be included"
+        "body": "DHSC established the Analytical Modelling oversight committee (AMOC). The committee <ui><li>reviews their department's QA templates and ensures that an appropriate framework in in place [recommendation 2] <li> identifies its business critical models, encouraging model owners to declare models, if in doubt <li>reports to the Permanent Secretary to feed in to the annual departmental governance statement <li>takes notional responsibility for assuring frameworks with arm's length bodies <ui><br> The DHSC framework is reviewed from time to time by DHSC “audit and risk Committee”, at Board level."
     }
 ]

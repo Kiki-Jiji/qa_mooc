@@ -38,7 +38,7 @@
         "_trackingId": 3
     },
     {
-        "_id": "b-40",
+        "_id": "b-41",
         "_parentId": "a-10",
         "_type": "block",
         "_classes": "",
@@ -46,6 +46,16 @@
         "displayTitle": "",
         "body": "",
         "_trackingId": 7
+    },
+    {
+        "_id": "b-40",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-40",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 35
     },
     {
         "_id": "b-45",
@@ -210,9 +220,9 @@
         "_id": "b-75",
         "_parentId": "a-20",
         "_type": "block",
-        "_classes": "",
+        "_classes": "csblock",
         "title": "b-05",
-        "displayTitle": "Story",
+        "displayTitle": "Business critical models and the “Analytical Modelling oversight committee” (AMOC)",
         "body": "",
         "instruction": "",
         "_trackingId": 22,
@@ -230,7 +240,7 @@
         "_id": "b-80",
         "_parentId": "a-20",
         "_type": "block",
-        "_classes": "",
+        "_classes": "csblock",
         "title": "b-10",
         "displayTitle": "",
         "body": "",
@@ -245,7 +255,7 @@
         "_id": "b-85",
         "_parentId": "a-20",
         "_type": "block",
-        "_classes": "",
+        "_classes": "csblock",
         "title": "b-10",
         "displayTitle": "",
         "body": "",
