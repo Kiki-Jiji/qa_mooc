@@ -19,6 +19,9 @@
         "_console": true
     },
     "_accessibility": {
+        "logo": {
+          "src": "course/en/images/bpi.png"
+        },
         "_isEnabled": true,
         "_isSkipNavigationEnabled": true,
         "_ariaLevels": {

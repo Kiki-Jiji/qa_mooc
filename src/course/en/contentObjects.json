@@ -7,7 +7,7 @@
         "_htmlClasses": "",
         "title": "Presentation Components",
         "displayTitle": "A recent history of modelling in government ",
-        "body": "Modelling is essential to the work of government. From predicting the spread of pandemic flu to forecasting population growth, models underpin decisions which affect people’s lives. Mistakes in the recent past have helped us improve. <br> Let's take a look at what the lessons learnt were in a little more detail below:",
+        "body": "Modelling is essential to the work of government. From predicting the spread of pandemic flu to forecasting population growth, models underpin decisions which affect people’s lives. It is vital, therefore, that these models are fit-for-purpose",
         "pageBody": "",
         "instruction": "Scroll down to see the recent history of the modelling",
         "icon": {
@@ -37,6 +37,9 @@
         "body": "Test your knowledge of the history of MacPherson",
         "pageBody": "An interactive quiz of the history of modelling QA to test your knowledge",
         "instruction": "Scroll down and answer the questions as best as you can",
+        "icon": {
+          "src": "fas fa-chart-pie fa-3x"
+        },
         "_graphic": {
             "src": "course/en/images/question.png",
             "alt": ""

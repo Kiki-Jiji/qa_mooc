@@ -62,7 +62,7 @@
         "_id": "c-30",
         "_parentId": "b-20",
         "_type": "component",
-        "_component": "narrative",
+        "_component": "hotgraphic",
         "_classes": "",
         "_layout": "full",
         "_comment": "setCompletionOn = inview | allItems",
@@ -73,6 +73,10 @@
         "body": "In October 2012, the Cabinet Secretary and the Head of the Civil Service commissioned a review of the quality assurance (QA) of analytical models that inform government policy.",
         "instruction": "Select the next and back arrows to find out more.",
         "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
+        "_graphic": {
+            "src": "course/en/images/full_width.jpg",
+            "alt": "Placeholder graphic."
+        },
         "_items": [
             {
                 "title": "Commission started",
@@ -81,7 +85,10 @@
                     "src": "course/en/images/man_read.png",
                     "alt": "Placeholder graphic."
                 },
-                "strapline": "Narrative item 1"
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 42,
+                "_left": 8.5
             },
             {
                 "title": "Review of quality assurance of Government analytical models",
@@ -90,14 +97,20 @@
                     "src": "course/en/images/paper_pen.png",
                     "alt": "Placeholder graphic."
                 },
-                "strapline": "Narrative item 2"
+                "strapline": "Narrative item 2",
+                "_classes": "",
+                "_top": 62,
+                "_left": 26.5
             },
             {
                 "title": "Aftermath",
                 "body": "Macpherson review (words from ex perm sec, perhaps on the review the context in 2013 of building trust, how government came together and established a set of principles that would be relevant to everyone for years to come) ",
                 "_graphic": {
                     "src": "course/en/images/chart.png",
-                    "alt": "Placeholder graphic."
+                    "alt": "Placeholder graphic.",
+                    "_classes": "",
+                    "_top": 62,
+                    "_left": 49
                 },
                 "strapline": "Narrative item 3"
             }
