@@ -81,7 +81,7 @@
         "_id": "b-65",
         "_parentId": "a-15",
         "_type": "block",
-        "_classes": "qa_block",
+        "_classes": "qa_block1",
         "title": "b-10",
         "displayTitle": "",
         "body": "",
@@ -92,7 +92,7 @@
         "_id": "b-66",
         "_parentId": "a-16",
         "_type": "block",
-        "_classes": "",
+        "_classes": "qa_block2",
         "title": "block1",
         "displayTitle": "",
         "body": "",
@@ -162,22 +162,6 @@
         "body": "",
         "instruction": "",
         "_trackingId": 31,
-        "_onScreen": {
-            "_isEnabled": true,
-            "_classes": "fade-in-bottom",
-            "_percentInviewVertical": 50
-        }
-    },
-    {
-        "_id": "b-71",
-        "_parentId": "a-17",
-        "_type": "block",
-        "_classes": "aqua",
-        "title": "aqua",
-        "displayTitle": "Aqua Book",
-        "body": "",
-        "instruction": "",
-        "_trackingId": 32,
         "_onScreen": {
             "_isEnabled": true,
             "_classes": "fade-in-bottom",

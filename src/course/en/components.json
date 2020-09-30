@@ -522,16 +522,6 @@
         }
     },
     {
-            "_id": "a-95",
-            "_parentId": "b-71",
-            "_type": "component",
-            "_component": "blank",
-            "_classes": "",
-            "_layout": "",
-            "title": "c-20",
-            "_isOptional": true
-    },
-    {
         "_id": "a-96",
         "_parentId": "b-72",
         "_type": "component",
