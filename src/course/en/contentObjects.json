@@ -34,7 +34,7 @@
         "_htmlClasses": "",
         "title": "Question Components",
         "displayTitle": "Modelling quiz",
-        "body": "Test your knowledge of the history of MacPherson",
+        "body": "Test your knowledge of the history of MacPherson <br><br><br><br><br><br>",
         "pageBody": "An interactive quiz of the history of modelling QA to test your knowledge",
         "instruction": "Scroll down and answer the questions as best as you can",
         "icon": {
@@ -61,7 +61,7 @@
         "_htmlClasses": "",
         "title": "Presentation Components",
         "displayTitle": "The Macpherson review",
-        "body": "The 8 recommendations, the AQUA book and best practice in  modelling.",
+        "body": "The 8 recommendations, the AQUA book and best practice in  modelling <br><br><br>",
         "pageBody": "",
         "instruction": "",
         "_graphic": {

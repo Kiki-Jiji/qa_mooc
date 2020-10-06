@@ -522,6 +522,110 @@
         }
     },
     {
+        "_id": "c-96",
+        "_parentId": "b-71",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_classes": "pmq",
+        "_layout": "full",
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_hasNavigationInTextArea": false,
+        "_hidePagination": true,
+        "title": "Narrative",
+        "displayTitle": "PM QUESTIONS",
+        "body": "Each department or ALB should…",
+        "instruction": "",
+        "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
+        "_graphic": {
+            "src": "course/en/images/chamber.jpg",
+            "alt": "Placeholder graphic."
+        },
+        "_items": [
+            {
+                "title": "<b>P</b>lan",
+                "body": "have a plan for creating the right QA environment <ui><li> Culture and incentives <li> Capacity (resources and time) capability (access to expertise and tools) <li>  Governance (clear roles and responsibilities for QA, and QA championing). </ui> the right QA processes. This means <ui><li>Clear guidance<li> Clear documentation<li> Clear handover for SROs and owners</ui>",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 0,
+                "_left": 0,
+                "_pin": {
+                  "src":"course/en/images/logo-p.png"
+                }
+            },
+            {
+                "title": "<b>M</b>onitor",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 10,
+                "_left": 10,
+                "_pin": {
+                  "src":"course/en/images/logo-m.png"
+                }
+            },
+            {
+                "title": "<b>Q</b>uality assurance",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 20,
+                "_left": 20,
+                "_pin": {
+                  "src":"course/en/images/logo-q.png"
+                }
+            },
+            {
+                "title": "<b>U</b>nc<b>E</b>rtainty ",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 30,
+                "_left": 30,
+                "_pin": {
+                  "src":"course/en/images/logo-ue.png"
+                }
+            },
+            {
+                "title": "<b>S</b>pecialis<b>T</b>",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 40,
+                "_left": 40,
+                "_pin": {
+                  "src":"course/en/images/logo-st.png"
+                }
+            },
+            {
+                "title": "<b>I</b>nterdepartmental",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 50,
+                "_left": 50,
+                "_pin": {
+                  "src":"course/en/images/logo-i.png"
+                }
+            },
+            {
+                "title": "<b>O</b>w<b>N</b>ership",
+                "body": "text",
+                "strapline": "Narrative item 1",
+                "_classes": "",
+                "_top": 60,
+                "_left": 60,
+                "_pin": {
+                  "src":"course/en/images/logo-on.png"
+                }
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
         "_id": "a-96",
         "_parentId": "b-72",
         "_type": "component",
