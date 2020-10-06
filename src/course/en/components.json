@@ -543,19 +543,21 @@
         },
         "_items": [
             {
-                "title": "<b>P</b>lan",
+                "title": "",
                 "body": "have a plan for creating the right QA environment <ui><li> Culture and incentives <li> Capacity (resources and time) capability (access to expertise and tools) <li>  Governance (clear roles and responsibilities for QA, and QA championing). </ui> the right QA processes. This means <ui><li>Clear guidance<li> Clear documentation<li> Clear handover for SROs and owners</ui>",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 0,
                 "_left": 0,
+                "boxHeader": "<b>P</b>lan",
                 "_pin": {
                   "src":"course/en/images/logo-p.png"
                 }
             },
             {
-                "title": "<b>M</b>onitor",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>M</b>onitor",
+                "body": "Monitor progress against all these recommendations, and include how you're planning to improve your QA processes and environment in your department's annual report",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 10,
@@ -565,8 +567,9 @@
                 }
             },
             {
-                "title": "<b>Q</b>uality assurance",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>Q</b>uality assurance",
+                "body": "Embed full QA (of the inputs/methodology/outputs) of business critical modelling",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 20,
@@ -576,8 +579,9 @@
                 }
             },
             {
-                "title": "<b>U</b>nc<b>E</b>rtainty ",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>U</b>nc<b>E</b>rtainty",
+                "body": "Take care to explain uncertainty of business critical modelling",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 30,
@@ -587,8 +591,9 @@
                 }
             },
             {
-                "title": "<b>S</b>pecialis<b>T</b>",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>S</b>pecialis<b>T</b>",
+                "body": "Help modellers to develop specialist skills when they develop, use and QA business critical models",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 40,
@@ -598,8 +603,9 @@
                 }
             },
             {
-                "title": "<b>I</b>nterdepartmental",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>I</b>nterdepartmental",
+                "body": "Join the Inter-Departmental Working Group on Quality Assurance of Analytical Models",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 50,
@@ -609,8 +615,9 @@
                 }
             },
             {
-                "title": "<b>O</b>w<b>N</b>ership",
-                "body": "text",
+                "title": "",
+                "boxHeader": "<b>O</b>w<b>N</b>ership",
+                "body": "Ensure each business critical model has a Senior Responsible Owner for each model (“Model SRO”) through its life cycle. <ui><li>SROs should provide sign off and advice whether QA is fit for the decision making</li></ui>",
                 "strapline": "Narrative item 1",
                 "_classes": "",
                 "_top": 60,
