@@ -549,7 +549,7 @@
                 "_classes": "",
                 "_top": 0,
                 "_left": 0,
-                "boxHeader": "<b>P</b>lan",
+                "boxHeader": "<span class = 'nemonic'><strong>P</strong></span>lan",
                 "_pin": {
                   "src":"course/en/images/logo-p.png"
                 }

@@ -1,0 +1,29 @@
+{
+  "name": "adapt-inspector",
+  "framework": ">=2.0.16",
+  "displayName": "Inspector",
+  "extension": "inspector",
+  "targetAttribute": "_inspector",
+  "description": "An extension to inspect details of elements",
+  "main": "/js/adapt-inspector.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "authors": [
+    "Tom Greenfield",
+    "Daryl Hedley"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/tomgreenfield/adapt-inspector",
+  "_release": "c65af4c722",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c65af4c7225ff7837bbc943ee7f4f455fb570b9f"
+  },
+  "_source": "git://github.com/tomgreenfield/adapt-inspector.git",
+  "_target": "*",
+  "_originalSource": "adapt-inspector",
+  "_direct": true
+}

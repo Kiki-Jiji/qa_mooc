@@ -1,0 +1,259 @@
+// Additional theme classes or attributes to be applied in JSON for more custom style
+// ====================================================================
+
+// Divider block - used to separate content or break up pages.
+// =============
+
+// Class applies alternative background color and component styling
+
+.icon {
+  padding-right: 10px;
+  margin-bottom: 5px;
+  float: left;
+}
+
+.intro {
+  text-align: center;
+  .component-title-inner {
+    text-align: center !important;
+  }
+}
+
+// macpherson report course
+
+
+.qa_block1 {
+  background-color: @alting-color1 !important;
+}
+
+.qa_block2 {
+  background-color: @alting-color2 !important;
+}
+
+
+
+.aqua {
+	background-image: url(assets/water.jpg);
+  height: 1200px;
+  .block-title {
+    text-align: center;
+    font-size: 400%;
+  }
+}
+
+.pmq {
+  max-width: none !important;
+}
+
+.pmq_a {
+  max-width: none !important;
+  .block-inner {
+    max-width: none !important;
+  }
+}
+
+.pmq_b {
+  .block-inner {
+    max-width: none !important;
+  }
+}
+
+// pmquestion popup
+.box-header {
+  font-size: @component-title-font-size;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  color: @white;
+  .nemonic {
+    color: black !important;
+  }
+}
+
+.notify.hotgraphic .notify-popup-content-inner .hotgraphic-popup-toolbar {
+    background-color: #197B23;
+    opacity: 0.8
+}
+
+.notify.hotgraphic .notify-popup {
+  color: @white;
+}
+
+.notify.hotgraphic .notify-popup-content-inner .hotgraphic-popup {
+  background: radial-gradient(closest-side, #835e43, #4e3828);
+}
+
+// popup border
+.notify.hotgraphic .notify-popup-content-inner .hotgraphic-popup {
+    border: 5px solid black;
+    border-radius: 0px 0px 0px 40px;
+}
+
+
+// cs is for case Study
+.cs {
+  font-size: 200%;
+  line-height: 150%;
+  color: @white;
+}
+
+.csblock {
+  .component .component-inner {
+    background-color: #1590bf !important;
+  }
+  .block-title {
+    background-color: @white;
+    padding: 10px;
+  }
+}
+
+.article_aqua .article-inner.block-container {
+    padding-bottom: 0px;
+}
+
+.aqua2 {
+  //background-image: linear-gradient(#0953ba, #97eef7);
+  //height: 1000px;
+}
+
+.aqua_book {
+  background: none !important;
+}
+
+.aquabook {
+  background-color: #a9e5eb;
+  .block-title-inner {
+    color: @black;
+  }
+}
+
+.recommendations{
+  //background-color: #e9ebf0
+}
+
+.rec1 {
+  //background-color: purple
+}
+
+.rec-flip .component-inner {
+  background-color: @white
+}
+
+.rec-flip .flipper-item.nth-child-0 {
+  background-color: black
+}
+
+.logo {
+  height: 60px;
+  width: 180px;
+  padding-left: 50px;
+  padding-top: 4px;
+  filter: brightness(140%);
+}
+
+.logo:hover {
+  transform: translate(100px);
+  transition: all 1.5s linear;
+  filter: brightness(0%);
+}
+
+.navigation-inner {
+  background-color: @cs-black;
+  .navigation-back-button {
+    background-color: @white;
+  }
+}
+
+.divider-block {
+    background-color: @background-color-inverted;
+    color: @foreground-color-inverted;
+    text-align: center;
+    .block-title,
+    .block-body,
+    .block-instruction,
+    .component-title,
+    .component-body,
+    .component-instruction {
+    	color: @foreground-color-inverted;
+    	text-align: center;
+    }
+    .component-inner {
+    	background-color: transparent;
+    }
+}
+
+// Block background color - used to apply variable based background colors on blocks
+// ======================
+
+.block {
+	&.primary-color {
+		background-color: @primary-color;
+	}
+
+	&.secondary-color {
+		background-color: @secondary-color;
+	}
+
+	&.tertiary-color {
+		background-color: @tertiary-color;
+	}
+
+	&.background-color {
+		background-color: @background-color;
+	}
+
+	&.background-color-inverted {
+		background-color: @background-color-inverted;
+		color: @font-color-inverted;
+		.component-inner {
+			background-color: transparent;
+		}
+	}
+}
+
+// Component background - used to apply variable based background color and padding on components
+// ====================
+
+.component-background {
+	background-color: @component-background-color;
+	padding: @component-padding;
+}
+
+// Assessment - remove graphic components for mobile view (when components snap down to single span).
+// ==========
+
+.assessment {
+	.graphic-component {
+		display: block;
+
+		@media all and (max-width: @device-width-medium) {
+			display: none;
+		}
+	}
+}
+
+// THIS CLASS IS FOR THE PURPOSE OF THE ADAPT DEMO
+// blank component demo - applied at block level to add a background image in place of a blank component
+// ====================
+
+.blank-background {
+	background-image: url(assets/blank-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+	@media all and (max-width: @device-width-large) {
+		background-image: url(assets/blank-bg-900.jpg);
+		background-position: right;
+	}
+
+	@media all and (max-width: @device-width-medium) {
+		background-image: none;
+	}
+}
+
+// Adds styling to the blockquote element.
+
+blockquote {
+    border-left: 2px solid @primary-color;
+    margin-left: 20px;
+    padding-left: 20px;
+}

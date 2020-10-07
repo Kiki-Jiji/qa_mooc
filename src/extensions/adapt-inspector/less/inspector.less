@@ -1,0 +1,47 @@
+.inspector {
+	position: absolute;
+	z-index: 501;
+	cursor: default;
+	font: 11px "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+	&.inline {
+		margin-top: 4px;
+	}
+	&:not(.inline) {
+		padding-bottom: 8px;
+	}
+}
+
+.inspector-inner {
+	position: relative;
+	display: inline-block;
+	border: 1px solid #333;
+	border-radius: 3px;
+	background-color: #333;
+	.inspector:not(.inline) &:before {
+		position: absolute;
+		bottom: 0;
+		left: 50%;
+		border: 8px solid transparent;
+		border-top-color: inherit;
+		content: "";
+		transform: translate(-50%, 100%);
+	}
+}
+
+.inspector-text {
+	padding: 5px;
+	color: #3cf;
+	a& {
+		display: inline-block;
+		text-decoration: none;
+	}
+}
+
+.inspector-id {
+	color: #ccc;
+}
+
+.inspector-visible {
+	outline: 1px dashed;
+}
