@@ -537,18 +537,21 @@
         "body": "Each department or ALB should…",
         "instruction": "",
         "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
+        "_isRound": true,
         "_graphic": {
             "src": "course/en/images/chamber.jpg",
             "alt": "Placeholder graphic."
         },
         "_items": [
-            {
+            {   "_graphic": {
+                  "src": "course/en/images/logo-mp1.png"
+                },
                 "title": "",
                 "body": "have a plan for creating the right QA environment <ui><li> Culture and incentives <li> Capacity (resources and time) capability (access to expertise and tools) <li>  Governance (clear roles and responsibilities for QA, and QA championing). </ui> the right QA processes. This means <ui><li>Clear guidance<li> Clear documentation<li> Clear handover for SROs and owners</ui>",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 0,
-                "_left": 0,
+                "_top": 10,
+                "_left": 10,
                 "boxHeader": "<span class = 'nemonic'><strong>P</strong></span>lan",
                 "_pin": {
                   "src":"course/en/images/logo-p.png"
@@ -560,8 +563,11 @@
                 "body": "Monitor progress against all these recommendations, and include how you're planning to improve your QA processes and environment in your department's annual report",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 10,
-                "_left": 10,
+                "_top": 20,
+                "_left": 20,
+                "_graphic": {
+                      "src": "course/en/images/logo-mp1.png"
+                    },
                 "_pin": {
                   "src":"course/en/images/logo-m.png"
                 }
@@ -572,8 +578,8 @@
                 "body": "Embed full QA (of the inputs/methodology/outputs) of business critical modelling",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 20,
-                "_left": 20,
+                "_top": 30,
+                "_left": 30,
                 "_pin": {
                   "src":"course/en/images/logo-q.png"
                 }
@@ -584,8 +590,8 @@
                 "body": "Take care to explain uncertainty of business critical modelling",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 30,
-                "_left": 30,
+                "_top": 40,
+                "_left": 40,
                 "_pin": {
                   "src":"course/en/images/logo-ue.png"
                 }
@@ -596,8 +602,8 @@
                 "body": "Help modellers to develop specialist skills when they develop, use and QA business critical models",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 40,
-                "_left": 40,
+                "_top": 50,
+                "_left": 50,
                 "_pin": {
                   "src":"course/en/images/logo-st.png"
                 }
@@ -608,8 +614,8 @@
                 "body": "Join the Inter-Departmental Working Group on Quality Assurance of Analytical Models",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 50,
-                "_left": 50,
+                "_top": 60,
+                "_left": 60,
                 "_pin": {
                   "src":"course/en/images/logo-i.png"
                 }
@@ -620,8 +626,8 @@
                 "body": "Ensure each business critical model has a Senior Responsible Owner for each model (“Model SRO”) through its life cycle. <ui><li>SROs should provide sign off and advice whether QA is fit for the decision making</li></ui>",
                 "strapline": "Narrative item 1",
                 "_classes": "",
-                "_top": 60,
-                "_left": 60,
+                "_top": 70,
+                "_left": 70,
                 "_pin": {
                   "src":"course/en/images/logo-on.png"
                 }
